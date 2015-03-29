@@ -1,3 +1,3 @@
 #!/bin/bash
 
-nuget pack NUnit.Core.nuspec
+nuget pack Bud.NUnit.ConsoleRunner.nuspec

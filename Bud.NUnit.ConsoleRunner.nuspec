@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8"?>
 <package >
   <metadata>
-    <id>NUnit.Core</id>
-    <version>2.6.4</version>
-    <authors>Charlie Poole</authors>
-    <owners>Charlie Poole</owners>
+    <id>Bud.NUnit.ConsoleRunner</id>
+    <version>0.0.1</version>
+    <authors>Matej Urbas</authors>
+    <owners>Matej Urbas</owners>
     <requireLicenseAcceptance>false</requireLicenseAcceptance>
     <description>A packaging of NUnit.Core and the console runner that can be used by .NET applications to run NUnit tests programmatically.</description>
     <releaseNotes></releaseNotes>
-    <copyright>Copyright (c) 2014 Charlie Poole</copyright>
-    <tags>NUnit.Core</tags>
+    <copyright>Copyright (c) 2015 Matej Urbas</copyright>
+    <tags>Bud.NUnit.ConsoleRunner</tags>
     <dependencies>
     </dependencies>
     <frameworkAssemblies>
